@@ -2,7 +2,6 @@
 #### I am a Machine Learning Intern based in Chicago, Illinois.
 
 - 🌱 I’m currently learning **Next.js, Svelte, and Rust**
-- 🤝 I'm actively contributing to open-source projects, so feel free to reach out!
 
 
 <!---
