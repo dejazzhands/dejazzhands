@@ -1,7 +1,12 @@
 ## Hi, I'm Samuel!👋
-#### I am a Machine Learning Intern based in Chicago, Illinois.
+#### I am currently a Product Intern at [Playground 🌍](https://playgroundapp.com/).
 
-- 🌱 I’m currently learning **Next.js, Svelte, and Rust**
+
+I was previously a Machine Learning Engineer Intern at IDOT.
+
+- 🌱 I’m currently learning **Next.js, Svelte, and Tailwind.css**
+
+- 📚 
 
 
 <!---
