@@ -1,12 +1,38 @@
 ## Hi, I'm Samuel!👋
-#### I am currently a Product Intern at [Playground 🌍](https://playgroundapp.com/).
 
-
-I was previously a Machine Learning Engineer Intern at IDOT.
+- ✍️ Working on machine learning and human-computer interaction.
 
 - 🌱 I’m currently learning **Next.js, Svelte, and Tailwind.css**
 
-- 📚 
+- 📚 I'm following the [roadmap to be a Full-Stack Engineer](https://roadmap.sh/full-stack).
+
+
+### Socials
+
+[![Linkedin: samef](https://img.shields.io/badge/-samef-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samef/)](https://www.linkedin.com/in/samef/)
+[![GitHub samef](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dejazzhands)
+
+
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dejazzhands)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Tools I'm Using
+![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![image](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![image](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 
 <!---
