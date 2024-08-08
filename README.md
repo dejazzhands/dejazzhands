@@ -1,6 +1,6 @@
 ## Hi, I'm Samuel!👋
 
-- ✍️ Working on machine learning and human-computer interaction.
+- ✍️ Working on machine learning, human-computer interaction, and interdisciplinary research in public policy/health.
 
 - 🌱 I’m currently learning **Next.js, Svelte, and Tailwind.css**
 
