@@ -12,10 +12,6 @@
 [![Linkedin: samef](https://img.shields.io/badge/-samef-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samef/)](https://www.linkedin.com/in/samef/)
 [![GitHub samef](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dejazzhands)
 
-
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dejazzhands)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Tools I'm Using
 
 #### Python
