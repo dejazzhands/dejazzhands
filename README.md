@@ -1,12 +1,5 @@
 ## Hi, I'm Samuel!👋
 
-- ✍️ Working on machine learning, human-computer interaction, and interdisciplinary research in public policy/health.
-
-- 🌱 I’m currently learning **Next.js, Svelte, and Tailwind.css**
-
-- 📚 I'm following the [roadmap to be a Full-Stack Engineer](https://roadmap.sh/full-stack).
-
-
 ### Socials
 
 [![Linkedin: samef](https://img.shields.io/badge/-samef-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samef/)](https://www.linkedin.com/in/samef/)
