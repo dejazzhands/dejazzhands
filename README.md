@@ -1,5 +1,8 @@
 ## Hi, I'm Samuel!👋
 
+I'm broadly interested in human-computer interaction and its societal applications. I work in AI, data viz, and web development. I try building things to make the world a better place.
+
+
 ### Socials
 
 [![Linkedin: samef](https://img.shields.io/badge/-samef-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samef/)](https://www.linkedin.com/in/samef/)
